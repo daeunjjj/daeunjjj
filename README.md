@@ -13,7 +13,7 @@
 <h3>🐥 Contect me</h3>
 <br>
 <p>
-<a href="https://lucky-nannyberry-ebc.notion.site/cc505efd5ee4431a916e98cbd0ee8f85" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=blogger&logoColor=black"/></a>  
+<a href="https://lucky-nannyberry-ebc.notion.site/cc505efd5ee4431a916e98cbd0ee8f85" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=notion&logoColor=black"/></a>  
   <a href="https://github.com/daeunjjj" target="_blank"><img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"/></a> 
   <a href="mailto:dalam0990@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a> 
 </p>
